@@ -10,3 +10,5 @@
 * What have I done today to earn the lifestyle that I want to live?
 * Never stop learning.
 * Never stop improving things about yourself.
+
+[Daily Notes](
