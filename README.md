@@ -1,6 +1,6 @@
 # reading-notes
 
-# Hello my name is Joshua Holbert and welcome to my GitHub page!
+## by Joshua Holbert
 
 ## Growth Mindset
 * A growth mindset is a type of mindset that a person is constantly developing
