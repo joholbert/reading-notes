@@ -1,9 +1,9 @@
 # reading-notes
-Growth Mindset
+## Growth Mindset
 -A growth mindset is a type of mindset that a person is constantly developing
 -This type of mindset can learn from school, first hand experiences, counselors, mentors, and from just about anyone or anything if a person deems it as productive
 
-Reminders to Myself
+## Reminders to Myself
 -What have I done today to earn the lifestyle that I want to live?
 -Never stop learning.
 -Never stop improving things about yourself.
