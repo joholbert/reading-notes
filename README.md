@@ -11,4 +11,5 @@
 * Never stop learning.
 * Never stop improving things about yourself.
 
-[Daily Notes](
+[Daily Notes](./day-1-notes.md)
+
