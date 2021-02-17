@@ -13,3 +13,4 @@
 
 [Daily Notes](./day-1-notes.md)
 
+![foo](train.jpg)
