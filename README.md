@@ -11,6 +11,4 @@
 * Never stop learning.
 * Never stop improving things about yourself.
 
-!(penguins.jpg)
-
 [Daily Notes](./day-1-notes.md)
