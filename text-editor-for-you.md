@@ -16,6 +16,6 @@ to build a web site.
 -Text Editors that come with your computer
   Mac: Text Edit
   Windows: Notepad
-  ## These ready made text editors can be used to build websites but isn't equipped with enough features
+    ### These ready made text editors can be used to build websites but isn't equipped with enough features
   
   
