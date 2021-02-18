@@ -17,7 +17,6 @@ to build a web site.
   ###### (These ready made text editors can be used to build websites but aren't equipped with enough features to compete with other editors)
 - Third party options include:
   - Notepad++
-  - Text Wrangler
   - BB Edit
   - Visual Studio Code
   - Atom
