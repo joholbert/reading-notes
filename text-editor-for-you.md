@@ -14,7 +14,7 @@ to build a web site.
 
 ## Different Classifications of Text Editors
 - Text Editors that come with you OS such as Mac's Text Edit or Windows Notepad
-  ###### (These ready made text editors can be used to build websites but aren't equipped with enough features to compete with other editors)
+  ###### (These ready made text editors can be used to build websites but aren't equipped with enough features to compete with other top rated web development software)
 - Third party options include:
   - Notepad++
   - BB Edit
