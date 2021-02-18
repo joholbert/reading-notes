@@ -12,4 +12,5 @@
 * Never stop improving things about yourself.
 
 [Daily Notes](./day-1-notes.md)
-[Text Editors](./
+
+[Text Editors](./text-editor-for-you.md)
