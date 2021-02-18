@@ -13,8 +13,10 @@ to build a web site.
 - multiple extension selections
 
 ## Different Classifications of Text Editors
--Text Editors that come with your computer
-  Mac: Text Edit
+- Text Editors that come with you OS such as Mac's Text Edit or Windows Notepad
   ###### (These ready made text editors can be used to build websites but aren't equipped with enough features to compete with other editors)
-  
+- Third party options include:
+  - Notepad++
+  - Text Wrangler/BB Edit
+  - 
   
